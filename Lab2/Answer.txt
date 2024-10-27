@@ -1,0 +1,10 @@
+Có, Java cho phép bạn tạo nhiều phương thức khởi tạo (constructor)
+trong một lớp thông qua một khái niệm gọi là constructor
+overloading. Constructor overloading là việc có nhiều phương thức
+khởi tạo trong một lớp với danh sách tham số khác nhau. Mỗi
+constructor có thể khởi tạo một đối tượng với các bộ giá trị khởi tạo
+khác nhau dựa trên các tham số mà nó nhận. Trong mã code của bạn,
+bạn đã có nhiều phương thức khởi tạo cho lớp DigitalVideoDisc, mỗi
+phương thức có danh sách tham số khác nhau. Ví dụ, bạn đã có một
+constructor khởi tạo một DVD bằng tiêu đề và một constructor khởi
+tạo nó bằng tiêu đề, thể loại và giá. 
